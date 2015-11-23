@@ -1,5 +1,5 @@
 # sketch-patterns
-A library of tileable patterns for Sketch, and the file that created them.
+A library of over 70 tileable patterns for Sketch, and the file that created them.
 
 ![Hey, it's some patterns](https://raw.githubusercontent.com/skumando/sketch-patterns/master/images/example.png)
 
